@@ -1,7 +1,7 @@
 
-name = input("Enter student name: ")
+name = input("malkari uday kiran")
 
-marks = int(input("Enter marks: "))
+marks = int(input("75 "))
 
 if marks >= 90:
     grade = "A"
